@@ -2,6 +2,10 @@
 
 A dark aerospace theme for Omarchy inspired by Starship mission-control consoles: orbital blues, cyan instrumentation, restrained amber status lights, and high-contrast terminal text.
 
+![Omarchy Starship desktop preview](preview.png)
+
+This preview shows the intended complete experience: the Starship desktop theme combined with the optional local-system telemetry HUD.
+
 ## Install
 
 ```bash
